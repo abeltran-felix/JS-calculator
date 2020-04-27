@@ -1,0 +1,14 @@
+body {
+  background-color: darkgray;
+  color: skyblue;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+
+
+}
+h1 {
+ color: lightsteelblue;
+ text-align: center;
+ font: italic 200% fantasy;
+ background-color: snow;
+}
